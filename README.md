@@ -12,10 +12,6 @@ I design and build AI agents, multimodal pipelines, and production-grade ML syst
 | Project | What it does | Stack |
 |---|---|---|
 | [**Nexus-Audit**](https://github.com/reshik04/Nexus-Audit) | Multi-agent AI system for contract auditing & legal risk detection | LangGraph · Neo4j · GPT-4o · LayoutLMv3 · FastAPI |
-| [**Omni-Support**](https://github.com/reshik04/Omni-Support) | Real-time multimodal customer support agent (voice + video + vision) | Gemini 1.5 Flash · WebRTC · Whisper v3 · Milvus |
-| [**Sentinel-Ops**](https://github.com/reshik04/Sentinel-Ops) | Self-healing MLOps pipeline with automated drift detection & retraining | Prometheus · Grafana · LoRA · SageMaker · AWS |
-| [**Fin-Agent**](https://github.com/reshik04/Fin-Agent) | Autonomous wealth manager for Indian markets (Nifty 50) | LangChain · TA-Lib · Firecrawl · Pandas · CoT Reasoning |
-| [**Dev-Pilot**](https://github.com/reshik04/Dev-Pilot) | Enterprise AI agent that understands your private codebase | Voyage-Code · Vector DB · Terraform · GitHub Actions |
 
 ---
 
