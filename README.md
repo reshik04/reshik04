@@ -1,13 +1,21 @@
 # Reshik Rabacca A
+**AI/ML Engineer · Data & Business Analyst** · Building intelligent systems and turning data into decisions
 
-**AI/ML Engineer** · Building intelligent systems that work at scale
-
-I design and build AI agents, multimodal pipelines, and production-grade ML systems. My work sits at the intersection of applied research and engineering turning complex AI concepts into real, working products.
-
+I design and build AI agents, multimodal pipelines, and production-grade ML systems — and I translate raw event data into funnel, retention, and revenue insights that drive business decisions. My work sits at the intersection of applied research, engineering, and analytics.
 
 ---
 
-## Projects
+## Analytics & BI
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Product Funnel & Retention Dashboard**](https://github.com/reshik04/product-funnel-dashboard) | End-to-end funnel + cohort retention analysis on e-commerce events — finds where users drop off and which channels retain best | SQL (DuckDB) · Power BI · CTEs · Window functions |
+
+*Key result: identified the activation→purchase stage as the biggest leak (52% drop), and showed referral/email convert ~3.3x and retain ~6x better than social.*
+
+---
+
+## AI/ML Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -16,7 +24,6 @@ I design and build AI agents, multimodal pipelines, and production-grade ML syst
 ---
 
 ## Earlier Work
-
 - [**Semantic Search with OpenAI QA**](https://github.com/reshik04/Semantic-Search-with-OpenAI-QA) — GPT-3.5-turbo semantic search engine
 - [**Deep Learning for Image Classification**](https://github.com/reshik04/Deep-Learning-for-Image-Classification) — CNN-based image classifier
 - [**NLP for Sentiment Analysis**](https://github.com/reshik04/Natural-Language-Processing-for-Sentiment-Analysis) — Sentiment model on unstructured text
@@ -25,22 +32,22 @@ I design and build AI agents, multimodal pipelines, and production-grade ML syst
 ---
 
 ## Stack
-
+**Analytics & BI** — SQL · DuckDB · Power BI · Tableau · funnel & cohort analysis · A/B reasoning · Excel  
 **AI/ML** — LangGraph · LangChain · CrewAI · OpenAI · Gemini · Hugging Face · PyTorch · scikit-learn  
 **Data** — Pandas · NumPy · TA-Lib · Neo4j · Milvus · Pinecone  
 **Infra** — FastAPI · Docker · AWS SageMaker · Prometheus · Grafana · GitHub Actions  
-**Languages** — Python · C++ · Java · C#
+**Languages** — Python · SQL
 
 ---
 
 ## Research Interests
-
 - Multi-agent orchestration and autonomous AI systems
 - Retrieval-Augmented Generation (RAG) and knowledge graphs
+- Product analytics: funnels, retention, and user behavior
 - MLOps, model monitoring, and self-healing pipelines
 - Multimodal AI (vision + language + audio)
 
 ---
 
-Open to research collaborations and internship opportunities in AI/ML.  
+Open to roles and collaborations in **AI/ML, data analysis, and business analytics**.  
 📬 reshikrabacca1817@gmail.com · [LinkedIn](https://linkedin.com/in/reshik-rabacca)
